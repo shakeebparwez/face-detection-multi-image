@@ -17,7 +17,7 @@ Before using this script, make sure you have the following prerequisites install
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/face-detection-multi-image.git
+   git clone https://github.com/shakeebparwez/face-detection-multi-image.git
    ```
 
 2. Navigate to the repository directory:
